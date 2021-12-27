@@ -1,18 +1,18 @@
-##Igor Pryazhentsev##
+## Igor Pryazhentsev
 ***
-##CONTACT##
+## CONTACT
 ***
-*E-mail:igor.pryazhenstev@mail.ru
-*Github:[IgorPryazhentsev](https://github.com/IgorPryazhentsev)
-##ABOUT##
+* E-mail:igor.pryazhenstev@mail.ru
+* Github:[IgorPryazhentsev](https://github.com/IgorPryazhentsev)
+## ABOUT
 ***
 
-##SKILLS##
+## SKILLS
 ***
 *HTML
 *CSS
 *GIT
-##CODE EXAMPLE##
+## CODE EXAMPLE
 ***
 '''
 let x = 1;
@@ -24,12 +24,12 @@ alert( +y );
 alert( +true );
 alert( +"" );
 '''
-##WORKING EXPERIENCE##
+## WORKING EXPERIENCE
 ***
 *No experience
-##EDUCATION##
+## EDUCATION
 ***
 *Yaroslavl State University, Industrial and Civil Engineering
-##LANGUAGES##
+## LANGUAGES
 ***
 *English-A1(Elementary)
