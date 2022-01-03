@@ -1,4 +1,105 @@
+.wrapper {
+    font-family: Helvetica,Arial,sans-serif;
+}
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
 h1 {
-    font-size: 30px;
-    color: blue;
+    font-size: 40px;
+    color: white;
+    margin-bottom: -15px;
+}
+
+.header_backround {
+    padding: 50px 0 0 0;
+    background-color: rgb(100, 98, 98);
+}
+.header_column {display: flex;
+    justify-content: space-between;
+
+}
+.header_contact {
+margin-top: 160px;
+}
+.header_name p {
+font-size: 20px;
+color: seashell;
+}
+.header_avatar { 
+    background: no-repeat url(img/avatar.jpeg);
+    width: 250px;
+    height: 250px;
+    border-radius: 125px;
+    background-size: contain;
+    border: 1px solid rgb(0, 0, 0);
+}
+.nav_row { padding: 2px 0 2px 0;
+    color: white;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-around;
+}
+.nav_row img {
+    width: 20px;
+    height: 20px;
+    margin-bottom: -2px;
+    padding: 0 5px;
+}
+.nav_background {
+    background-color: black;
+}   
+.nav_email a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.main_column {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;
+    margin-left: 240px;
+    
+}
+.main_about {width: 443px;
+    margin-right: 25px;
+}
+.main_about p {
+    padding-left: 40px;
+}
+.main_skills {width: 443px;
+    margin-left: 25px;
+}
+.main_code {width: 443px;
+    margin-right: 25px;
+}
+.main_code p {
+    padding-left: 40px;
+}
+.main_project {width: 443px;
+    margin-left: 25px;
+}
+.main_languages {width: 443px;
+    margin-right: 25px;
+}
+.main_education {width: 443px;
+    margin-left: 25px;
+}
+.footer_row {display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+.footer_row img {
+    width: 100px;
+    height: 100px;
+}
+.footer_year {
+    font-weight: 600;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    padding: 3px 0 3px 0;
+    margin-top: 20px;
 }
